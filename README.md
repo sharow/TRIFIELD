@@ -1,1 +1,17 @@
 # TRIFIELD
+just old stuff
+
+[TRI FIELD | 256bytes demos archive | v3](https://web.archive.org/web/20061017102051/http://www.256b.com/demo/388)
+
+### www.256b.com.nfo
+
+```
+   this archive was downloaded from
+
+       w  w  w  .   2  5  6  b  .  c  o  m 
+
+     the one and only 256 byte demo
+             resource on the web
+
+  (please report any archive failures)
+```
