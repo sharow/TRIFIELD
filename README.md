@@ -3,8 +3,6 @@ just old stuff
 
 [TRI FIELD | 256bytes demos archive | v3](https://web.archive.org/web/20061017102051/http://www.256b.com/demo/388)
 
-### www.256b.com.nfo
-
 ```
    this archive was downloaded from
 
